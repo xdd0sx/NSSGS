@@ -1,0 +1,11 @@
+http_path    = "/"
+project_path = "."
+css_dir      = "output/assets/stylesheet"
+sass_dir     = "content/assets/stylesheet"
+images_dir   = "output/assets/images"
+javascripts_dir = "output/assets/js"
+
+# when using SCSS:
+sass_options = {
+  :syntax => :scss
+}

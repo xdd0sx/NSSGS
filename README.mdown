@@ -1,0 +1,9 @@
+## Nanoc Static Site Generation Starterpack (NSSGS) 3.2.1
+
+1. Nanoc's original layout (current version [3.2.1](http://nanoc.stoneship.org/release-notes/))
+2. [SASS](https://github.com/nex3/sass) via [Compass](https://github.com/chriseppstein/compass) formatted stylesheet (the whitespace dependent .sass version)
+3. [HAML](https://github.com/nex3/haml) for your index and default layouts
+
+## Requirements
+
+gem install nanoc kramdown adsf mime-types haml sass compass
